@@ -34,4 +34,3 @@ cliente1.depositar(10000);
 console.log(cliente1.consultarSaldo());
 cliente1.sacar(500);
 console.log(cliente1.consultarSaldo());
-//# sourceMappingURL=ContaBancaria.js.map

@@ -18,4 +18,3 @@ class Livro {
 const livro = new Livro("O Hobbit", "J.R.R. Tolkien", 310);
 livro.marcarComoLido();
 console.log(livro.lido);
-//# sourceMappingURL=Livro.js.map

@@ -15,4 +15,3 @@ class Produto {
 }
 const produto1 = new Produto("Calça", 150, 20);
 console.log(produto1.valorTotal());
-//# sourceMappingURL=Produto.js.map

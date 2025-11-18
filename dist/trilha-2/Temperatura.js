@@ -14,4 +14,3 @@ class Temperatura {
 }
 const temp = new Temperatura(25);
 console.log(temp.paraFahrenheit(), temp.paraKelvin());
-//# sourceMappingURL=Temperatura.js.map
